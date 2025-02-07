@@ -3,7 +3,7 @@
 
 __pycache__/
 
-# C extensions
+# dosya acma
 *.so
 
 # Distribution / packaging
