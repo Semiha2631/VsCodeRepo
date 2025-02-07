@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 adres = "accounts.csv"
-yorum satiri eklendi
+# yorum satiri eklendi
 # :pushpin: Dosya açma fonksiyonu (varsa okuma, yoksa oluşturma)
 def DosyaAc(adres):
     if not os.path.exists(adres):
